@@ -1,0 +1,7 @@
+  {
+  "dependencies": {
+    "bedrock-protocol": "^3.39.0",
+    "proxy-agent": "^6.4.0",
+    "uuid": "^10.0.0"
+  }
+}
